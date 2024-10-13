@@ -1,3 +1,5 @@
+[![Ruby](https://github.com/frontstall/ipgeobase/actions/workflows/main.yml/badge.svg)](https://github.com/frontstall/ipgeobase/actions/workflows/main.yml)
+
 ## Installation
 
 Add this line to your application's Gemfile:
